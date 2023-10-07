@@ -9,7 +9,6 @@ for the user to send inputs to the PC via facial gestures and an on-screen keybo
 with which they can interact with using their gaze. This application was developed
 using Python 3.6. A
 primary goal for this project was economic accessibility for users, ensuring that it
-can be used with relatively low-cost PC components. for more information, you can read the doc in the User Manual Folder. 
-We've also included video links for demonstration.
+can be used with relatively low-cost PC components. for more information, you can read the User Manual in the docs Folder. 
 
 video walkthrough: https://www.youtube.com/watch?v=r8HJXODY9OA
