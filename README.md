@@ -1,6 +1,6 @@
 # Accessibility Eye Tracker
 
-This was a project done in the 44h year of CASE in DCU with [Luke Edgeworth](https://github.com/Ledge123). This was a project done in 3rd year of CASE in DCU with [Luke Edgeworth](https://github.com/Ledge123). For our final year project, we have sought to create an application that can be used
+This was a project done in my 4th year of CASE in DCU with [Luke Edgeworth](https://github.com/Ledge123).  For our final year project, we have sought to create an application that can be used
 as an alternative to the standard I/O PC setup of a hardware mouse and keyboard.
 This eyetracker application seeks to use a standard desktop webcam to accurately
 read where upon the screen the user is looking and to project their gaze onto the
